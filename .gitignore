@@ -1,3 +1,4 @@
+# Intellij
 .idea/
 *.iml
 *.ipr
@@ -5,3 +6,5 @@
 .idea_modules
 out/
 
+#
+.gradle/
