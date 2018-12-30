@@ -1,0 +1,10 @@
+project(':grocery-list-login') {
+
+    group = 'com.tagui'
+
+    dependencies {
+        compile(libraries.springWebflux)
+
+        testCompile(libraries.testng)
+    }
+}
